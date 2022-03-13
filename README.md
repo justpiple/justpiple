@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @justpiple
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Javascript
+- 👋 Hi, I’m [@justpiple](https://github.com/justpiple)
+- 👀 I'm a beginner in programming
+- 🌱 I’m currently learning web programming
 #
 want to know about me? [About Me](https://masben.studio)
 <!---
