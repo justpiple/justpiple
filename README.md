@@ -5,6 +5,9 @@
 <div align="center">
   
   ### Contact me
+  <a href="https://t.me/justpiple" target="_blank">
+    <img src="https://img.shields.io/badge/justpiple-blue?logo=telegram&style=square&link=https://t.me/justpiple" alt="Discord" title="Discord">
+    </a>
   <a href="https://instagram.com/kusindr_" target="_blank"> 
     <img src="https://img.shields.io/badge/kusindr_-white?logo=instagram&style=square&link=https://instagram.com/kusindr_&color=8134AF&logoColor=ffffff" alt="Instagram" title="Instagram">
   </a>
