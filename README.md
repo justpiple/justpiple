@@ -25,6 +25,8 @@ src="https://img.shields.io/github/followers/justpiple?logo=github&style=for-the
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/do1akwytk/image/upload/v1651154896/storage/vscode_eggyqm.svg" width="36" height="36" alt="VSCode" /></a>
 <a href="https://www.microsoft.com/en-us/software-download/windows11" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/do1akwytk/image/upload/v1651154453/storage/win11_b6ehh6.svg" width="36" height="36" alt="Win11" /></a>
 </p>
+<a href="https://linuxmint.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" width="36" height="36" alt="Win11" /></a>
+</p>
 
 
 ### Socials
