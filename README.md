@@ -5,7 +5,6 @@ Hi 👋 My name is ben
 * 🖥️  See my portfolio at [itsben.space](https://itsben.space)
 * ✉️  You can contact me at [me@itsben.space](mailto:me@itsben.space)
 * 🧠  I'm currently learn Web Programming
-* 👀  I love someone who doesn't love me
 
 <a href="https://www.github.com/justpiple" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/justpiple?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
