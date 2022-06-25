@@ -2,7 +2,7 @@ Hi 👋 My name is ben
 ====================
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [itsben.space](https://itsben.space)
+* 🖥️  See my profile at [itsben.space](https://itsben.space)
 * ✉️  You can contact me at [me@itsben.space](mailto:me@itsben.space)
 * 🧠  I'm currently learn Web Programming
 
