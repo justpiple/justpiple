@@ -1,13 +1,19 @@
-Hi 👋 My name is ben
-====================
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&section=footer&animation=fadeIn&fontSize=40&text=Hey there! My name is Ben👋"></div>
+
+---
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my profile at [itsben.space](https://itsben.space)
 * ✉️  You can contact me at [me@itsben.space](mailto:me@itsben.space)
 * 🧠  I'm currently learn Web Programming
+* 🏫  I'm a student at [SMK Telkom Malang](https://smktelkom-mlg.sch.id)
 
 <a href="https://www.github.com/justpiple" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/justpiple?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/502613851112472578" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/justpiple" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/kusindr_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
 ### Languange and Tools
 
@@ -25,11 +31,6 @@ src="https://img.shields.io/github/followers/justpiple?logo=github&style=for-the
 <a href="https://www.microsoft.com/en-us/software-download/windows11" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/do1akwytk/image/upload/v1651154453/storage/win11_b6ehh6.svg" width="36" height="36" alt="Win11" /></a>
 <a href="https://linuxmint.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" width="36" height="36" alt="Linuxmint" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/502613851112472578" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/justpiple" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/kusindr_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
 
 <b>My GitHub Stats</b>
