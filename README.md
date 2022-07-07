@@ -5,7 +5,7 @@
 * 🌍  I'm based in Indonesia
 * 🖥️  See my profile at [itsben.space](https://itsben.space)
 * ✉️  You can contact me at [me@itsben.space](mailto:me@itsben.space)
-* 🧠  I'm currently learn Web Programming
+* 🧠  I'm currently learn Flutter and Java
 * 🏫  I'm a student at [SMK Telkom Malang](https://smktelkom-mlg.sch.id)
 
 <a href="https://www.github.com/justpiple" target="_blank" rel="noreferrer"><img
