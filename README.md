@@ -1,4 +1,4 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&section=footer&animation=fadeIn&fontSize=40&text=Hey there! My name is Ben👋"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/justpiple/justpiple/main/banner.png"></div>
 
 ---
 
