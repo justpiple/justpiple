@@ -35,4 +35,4 @@ src="https://img.shields.io/github/followers/justpiple?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=justpiple&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true)](https://www.github.com/justpiple)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=justpiple&show_icons=true&hide=issues&count_private=true&icon_color=a855f7&theme=aura&hide_border=true&show_icons=true)](https://www.github.com/justpiple)
