@@ -36,3 +36,4 @@ src="https://img.shields.io/github/followers/justpiple?logo=github&style=for-the
 <b>My GitHub Stats</b>
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=justpiple&show_icons=true&hide=issues&count_private=true&icon_color=a855f7&theme=aura&hide_border=true&show_icons=true)](https://www.github.com/justpiple)
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justpiple&theme=dracula)
