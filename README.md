@@ -1,4 +1,4 @@
-<div align="center"><img src="https://raw.githubusercontent.com/justpiple/justpiple/main/banner.png"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/justpiple/justpiple/main/banner.jpg"></div>
 
 ---
 
