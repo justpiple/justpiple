@@ -33,6 +33,6 @@
 
 ### My Github Stats
 [![Github Stats](https://img.shields.io/github/followers/justpiple?logo=github&style=for-the-badge&color=6082B0)](https://www.github.com/justpiple)<br>
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=justpiple&show_icons=true&hide=issues&count_private=true&theme=dracula&hide_border=true&show_icons=true)](https://www.github.com/justpiple)
-[![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justpiple&theme=dracula)](https://www.github.com/justpiple)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=justpiple&show_icons=true&hide=issues&count_private=true&theme=dracula&hide_border=true)](https://www.github.com/justpiple)
+[![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=justpiple&theme=dracula&layout=compact&hide=Cmake,C%2B%2B&show_icons=true&hide_border=true)](https://www.github.com/justpiple)
 
