@@ -8,8 +8,6 @@
 * 🧠  I'm currently learn Flutter and Java
 * 🏫  I'm a student at [SMK Telkom Malang](https://smktelkom-mlg.sch.id)
 
-<a href="https://www.github.com/justpiple" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/justpiple?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
 
 ### Socials
 
@@ -33,7 +31,8 @@ src="https://img.shields.io/github/followers/justpiple?logo=github&style=for-the
 </p>
 
 
-<b>My GitHub Stats</b>
+### My Github Stats
+[![Github Stats](https://img.shields.io/github/followers/justpiple?logo=github&style=for-the-badge&color=6082B0)](https://www.github.com/justpiple)<br>
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=justpiple&show_icons=true&hide=issues&count_private=true&theme=dracula&hide_border=true&show_icons=true)](https://www.github.com/justpiple)
+[![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justpiple&theme=dracula)](https://www.github.com/justpiple)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=justpiple&show_icons=true&hide=issues&count_private=true&icon_color=a855f7&theme=aura&hide_border=true&show_icons=true)](https://www.github.com/justpiple)
-![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justpiple&theme=dracula)
