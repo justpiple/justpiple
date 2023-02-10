@@ -4,7 +4,7 @@
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my profile at [itsben.space](https://itsben.space)
-* ✉️  You can contact me at [me@itsben.space](mailto:me@itsben.space)
+* ✉️  You can contact me at [work@itsben.space](mailto:work@itsben.space)
 * 🧠  I'm currently learn Flutter and Java
 * 🏫  I'm a student at [SMK Telkom Malang](https://smktelkom-mlg.sch.id)
 
