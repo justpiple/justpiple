@@ -26,6 +26,7 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/projectsben/image/upload/v1651154896/storage/vscode_eggyqm.svg" width="36" height="36" alt="VSCode" /></a>
+  <a href="http://figma.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png?20190122211436" width="24" height="36" alt="Figma" /></a>
 <a href="https://www.microsoft.com/en-us/software-download/windows11" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/projectsben/image/upload/v1651154453/storage/win11_b6ehh6.svg" width="36" height="36" alt="Win11" /></a>
 <a href="https://linuxmint.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" width="36" height="36" alt="Linuxmint" /></a>
 </p>
