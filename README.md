@@ -3,9 +3,9 @@
 ---
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my profile at [itsben.space](https://itsben.space)
-* ✉️  You can contact me at [work@itsben.space](mailto:work@itsben.space)
-* 🧠  I'm currently learn Flutter and Java
+* 🖥️  See my profile at [benspace.xyz](https://benspace.xyz)
+* ✉️  You can contact me at [work@benspace.xyz](mailto:work@benspace.xyz)
+* 🧠  I'm currently learn Android Development and Web Development
 * 🏫  I'm a student at [SMK Telkom Malang](https://smktelkom-mlg.sch.id)
 
 
