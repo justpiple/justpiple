@@ -34,6 +34,6 @@
 
 ### My Github Stats
 [![Github Stats](https://img.shields.io/github/followers/justpiple?logo=github&style=for-the-badge&color=6082B0)](https://www.github.com/justpiple) [![Github Stats](https://komarev.com/ghpvc/?username=justpiple&style=flat-square&color=6082B0&style=for-the-badge)](https://www.github.com/justpiple)<br>
-[![Github Stats](https://ben-gh-readme.vercel.app/api?username=justpiple&show_icons=true&hide=issues&count_private=true&theme=dracula&hide_border=true&)](https://www.github.com/justpiple)
-[![Github Stats](https://ben-gh-readme.vercel.app/api/top-langs/?username=justpiple&theme=dracula&layout=compact&hide=Cmake,C%2B%2B&show_icons=true&hide_border=true)](https://www.github.com/justpiple)
+[![Github Stats](https://ben-gh-readme.vercel.app/api?username=justpiple&show_icons=true&hide=issues&count_private=true&theme=dracula&hide_border=true&sec=12321)](https://www.github.com/justpiple)
+[![Github Stats](https://ben-gh-readme.vercel.app/api/top-langs/?username=justpiple&theme=dracula&layout=compact&hide=Cmake,C%2B%2B&show_icons=true&hide_border=true&)](https://www.github.com/justpiple)
 
