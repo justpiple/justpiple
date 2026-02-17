@@ -7,6 +7,7 @@
 * ✉️  You can contact me at [work@benspace.xyz](mailto:work@benspace.xyz)
 * 📖  I'm currently learn Android Development and Web Development
 * 🏫  I'm a student at [Brawijaya University](https://ub.ac.id/)
+* 🏢  Building [Invero Solutions](https://invero.solutions/)
 
 
 ### Socials
